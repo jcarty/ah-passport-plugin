@@ -46,7 +46,7 @@
   },
   "peerDependencies":
   {
-    "actionhero":"^10.x"
+    "actionhero":"^11.x"
   },
   "engines":
   {
