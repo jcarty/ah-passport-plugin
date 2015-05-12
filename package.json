@@ -29,7 +29,8 @@
   "main": "./ah-passport-plugin.js",
   "dependencies":
   {
-    "passport":"^0.2"
+    "passport":"^0.2",
+    "mkdirp": "^0.3.5"
   },
   "devDependencies":
   {
