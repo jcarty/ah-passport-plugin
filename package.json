@@ -54,7 +54,7 @@
   },
   "scripts":
   {
-    "postinstall": "./scripts/NPMPostInstallScript.sh",
+    "postinstall": "node scripts/postinstall.js",
     "test": "./node_modules/.bin/mocha ./test --timeout 30000"
   }
 }
